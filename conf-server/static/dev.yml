@@ -1,0 +1,2 @@
+test:
+  var: 'dev from configo'
